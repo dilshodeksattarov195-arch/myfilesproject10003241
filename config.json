@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsalculate",
+        "uuid": 6323191,
+        "checksum": "0zjlao"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
